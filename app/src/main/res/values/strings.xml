@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">boilerplate</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="checkbox_foo_title">foo</string>
+    <string name="checkbox_foo_summary">Fight all the foos.</string>
 </resources>

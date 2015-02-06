@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://scehmas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="foo bar baz">
+        <CheckBoxPreference
+            android:key="settings_key_checkbox_foo"
+            android:title="@string/checkbox_foo_title"
+            android:summary="@string/checkbox_foo_summary"
+            android:defaultValue="true"
+            />
+    </PreferenceCategory>
+</PreferenceScreen>
